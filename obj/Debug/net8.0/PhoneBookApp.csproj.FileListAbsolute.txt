@@ -1,0 +1,14 @@
+/home/brain/C# Projects/PhoneBookApp/bin/Debug/net8.0/PhoneBookApp
+/home/brain/C# Projects/PhoneBookApp/bin/Debug/net8.0/PhoneBookApp.deps.json
+/home/brain/C# Projects/PhoneBookApp/bin/Debug/net8.0/PhoneBookApp.runtimeconfig.json
+/home/brain/C# Projects/PhoneBookApp/bin/Debug/net8.0/PhoneBookApp.dll
+/home/brain/C# Projects/PhoneBookApp/bin/Debug/net8.0/PhoneBookApp.pdb
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.AssemblyInfoInputs.cache
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.AssemblyInfo.cs
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.csproj.CoreCompileInputs.cache
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.dll
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/refint/PhoneBookApp.dll
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.pdb
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/PhoneBookApp.genruntimeconfig.cache
+/home/brain/C# Projects/PhoneBookApp/obj/Debug/net8.0/ref/PhoneBookApp.dll
