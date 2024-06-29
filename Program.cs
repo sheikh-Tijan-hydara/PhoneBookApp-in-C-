@@ -1,18 +1,23 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
-namespace PhoneBookApp{
-    public class Program{
-        public static void Main(string[] args){
+namespace PhoneBookApp
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
             Console.WriteLine("Welcome to PhoneBookApp");
             Console.WriteLine("**************************************");
             PhoneBook phoneBook = new PhoneBook();
 
-            while(true){
+            while (true)
+            {
                 phoneBook.DisplayOptions();
                 Console.WriteLine("**************************************");
                 int option = int.Parse(Console.ReadLine());
-                
-                switch(option){
+
+                switch (option)
+                {
                     case 1:
                         Console.WriteLine("Enter the Contact Details You Want to Add: ");
                         phoneBook.AddContact();
@@ -37,11 +42,7 @@ namespace PhoneBookApp{
                         Console.WriteLine("Invalid option");
                         break;
                 }
-
-
-
             }
-            
         }
     }
 }
